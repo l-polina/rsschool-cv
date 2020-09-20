@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.photo {
+  max-width: 100px;
+  margin: 20px;
+}
+
+.section {
+  margin: 40px;
+}
+
+p {
+  max-width: 800px;
+}
