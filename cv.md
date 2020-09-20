@@ -11,6 +11,27 @@ Until recently, I was a design engineer, but my real calling is programming. I l
 
 I am constantly self-developing, improving and striving to become the best version of myself. I keep calm when I encounter difficulties. I clearly define goals for myself and achieve them.
 
+### Skills
+
+- JS
+- React
+- Redux
+- HTML
+- CSS
+- Python
+- VS Code
+- Git
+
+### Languages
+
+- Russian - Native
+- English - Pre-Intermediate
+
+### Links
+
+https://github.com/l-polina  
+https://t.me/polina_liutsko
+
 ## Employment History
 
 ### Design engineer at PE "Longavi"
@@ -43,3 +64,7 @@ September 2011 — June 2016
 ### IT project management, IT-Academy
 
 July 2019 — present time
+
+## Personal Projects
+
+### There is nothing here yet
